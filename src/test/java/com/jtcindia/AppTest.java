@@ -17,7 +17,8 @@ public class AppTest
      */
     public AppTest( String testName )
     {
-            int x=20;
+            int x=90;
+            int y=49;
         super( testName );
     }
 

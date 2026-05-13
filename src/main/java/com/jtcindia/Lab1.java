@@ -48,9 +48,9 @@ public class Lab1 {
 			
 		} catch (Exception e) {
 			e.printStackTrace();
-System("jjjd");
-int i=10;
-int j=20;
+ 
+int i=66;
+int j=43;
 		}
 		 
 		 
