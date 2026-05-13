@@ -40,6 +40,7 @@ public class Lab1 {
 			Session session = sessionFactory.openSession();
 			tx =session.beginTransaction();
 			Customer cust = new Customer("som", "web@jtc", 25344, "Delhi");
+
 			session.save(cust);
 			
 			tx.commit();
@@ -47,6 +48,9 @@ public class Lab1 {
 			
 		} catch (Exception e) {
 			e.printStackTrace();
+System("jjjd");
+int i=10;
+int j=20;
 		}
 		 
 		 

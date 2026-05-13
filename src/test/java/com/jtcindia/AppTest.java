@@ -17,6 +17,7 @@ public class AppTest
      */
     public AppTest( String testName )
     {
+            int x=20;
         super( testName );
     }
 
