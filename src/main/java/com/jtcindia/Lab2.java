@@ -41,8 +41,6 @@ public class Lab2 {
 			tx.commit();
 			session.close();
 		} catch (Exception e) {
-                                            int a=19;
-                                            int b=54;
 			tx.rollback();
 			e.printStackTrace();
 		}
