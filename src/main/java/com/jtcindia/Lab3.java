@@ -45,6 +45,8 @@ public class Lab3 {
 			session.update(cust);
 			tx.commit();
 			session.close();
+                                  int a=99;
+                                  int b=70;
 			
 		} catch (Exception e) {
 			tx.rollback();
