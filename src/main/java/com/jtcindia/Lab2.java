@@ -12,6 +12,14 @@ public class Lab2 {
 //		Transaction tx= null;
 //		try {
 //		SessionFactory  sessionFactory	  = HibernateUtil.getSessionFactory();
+
+
+                                 tx=session.beginTransaction();
+                                  System.out.println("Change the Life");
+                                  int bb=90;
+                                  double ff=10.2f;
+
+               
 //		   Session session =sessionFactory.openSession();
 //		   tx = session.beginTransaction();
 //		   //Your Persistence Operation hare

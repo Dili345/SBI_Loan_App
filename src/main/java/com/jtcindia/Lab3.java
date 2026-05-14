@@ -26,7 +26,8 @@ public class Lab3 {
 //		}
 		
 		
-		
+		String str="Dilip";
+                                String str1="Amit jaiswal";
 		
 		
 		Transaction tx=null;

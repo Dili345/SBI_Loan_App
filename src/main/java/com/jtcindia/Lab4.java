@@ -12,6 +12,10 @@ public class Lab4 {
 //	Session session=sessionFactory.openSession();
 //		tx=session.beginTransaction();
 //		//Your Persistance Operation here
+
+                        int yy=09;
+                       int ff=89;
+
 //	Customer cust	=session.load(Customer.class, 1);
 //		System.out.println(cust);
 //		session.delete(cust);
