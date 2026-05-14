@@ -23,7 +23,7 @@ public class Customer {
 	private String email;
 	
 	@Column(name= "myphone")
-	private int phone;
+	public String nameMyphone;
 	
 	@Column(name= "mycity")
 	private String city;
