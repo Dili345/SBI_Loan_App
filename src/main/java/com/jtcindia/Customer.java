@@ -21,7 +21,11 @@ public class Customer {
 	
 	@Column(name= "myemail")
 	private String email;
+
 	     int aa=20;      
+
+	String str="name";
+
 	@Column(name= "myphone")
 	public String nameMyphone;
 	
