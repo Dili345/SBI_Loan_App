@@ -24,7 +24,7 @@ public class Customer {
 	
                 int a=10;
 	@Column(name= "myphone")
-	private int phone;
+	public String nameMyphone;
 	
 	@Column(name= "mycity")
 	private String city;
