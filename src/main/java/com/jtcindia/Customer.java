@@ -22,6 +22,7 @@ public class Customer {
 	@Column(name= "myemail")
 	private String email;
 	
+                int a=10;
 	@Column(name= "myphone")
 	private int phone;
 	
