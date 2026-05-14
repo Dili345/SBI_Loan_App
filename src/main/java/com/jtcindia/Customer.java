@@ -21,8 +21,7 @@ public class Customer {
 	
 	@Column(name= "myemail")
 	private String email;
-	
-                int a=10;
+	     int aa=20;      
 	@Column(name= "myphone")
 	public String nameMyphone;
 	
